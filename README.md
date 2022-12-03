@@ -1,0 +1,2 @@
+# idemo-opet
+ne odustalem
