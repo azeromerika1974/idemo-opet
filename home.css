@@ -1,0 +1,15 @@
+body{
+    background-image:url(IMG_1481_1.png);
+
+}
+#clinetlogo{
+    dth: 729.67px;
+height: 200px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
